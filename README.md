@@ -1,2 +1,2 @@
-# dio_powerbi
-Repositório de projetos feitos em PowerBI pela formação de Ciência de Dados na DIO.
+# Visualização e Análise de Dados com Power BI
+Repositório de projetos feitos em Power BI pela formação de Ciência de Dados na DIO.
